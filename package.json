@@ -6,9 +6,6 @@
   "scripts": {
     "dev": "nodemon server",
     "serve": "node server"
-    "engines": {
-    "npm": "9.5.1"
-  }
   },
   "dependencies": {
     "cors": "^2.8.5",
